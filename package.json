@@ -1,0 +1,23 @@
+{
+  "name": "electron-basic",
+  "version": "1.0.0",
+  "description": "basic exersie",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilrajpurohit/electron-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilrajpurohit/electron-basic/issues"
+  },
+  "homepage": "https://github.com/nilrajpurohit/electron-basic#readme",
+  "devDependencies": {
+    "electron": "^19.0.1"
+  }
+}
